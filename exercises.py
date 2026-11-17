@@ -70,3 +70,5 @@ def weather_advice():
         print('Wear light clothing.')
 
 weather_advice()
+
+# done
